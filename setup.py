@@ -16,9 +16,9 @@ setup(
     version='0.1.0',
     description='Downloads and prepares formula one data',
     long_description=readme,
-    author='Timo Schuerg',
-    author_email='t.schuerg@th-bingen.de',
-    url='https://github.com/kennethreitz/samplemod',
+    author='Fernando Azevedo',
+    author_email='fernandoazevedo165@gmail.com',
+    url='https://github.com/gavvvel/formulaone',
     license=license,
     packages=find_packages(exclude=('tests', 'docs'))
 )
